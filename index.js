@@ -3,7 +3,7 @@
 var NANO_PER_SECOND = 1e9;
 var NANO_PER_MILLI  = 1e6;
 
-module.exports = function() {
+module.exports = function HRDuration() {
   var start = process.hrtime();
 
   function getNanoseconds() {

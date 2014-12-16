@@ -1,5 +1,5 @@
 {
-  "name": "easy-hrtime",
+  "name": "hrduration",
   "version": "0.0.0",
   "description": "Simple wrapper around process.hrtime to get duration.",
   "main": "index.js",
@@ -8,12 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:abloom/easy-hrtime.git"
+    "url": "git@github.com:abloom/hrduration.git"
   },
   "author": "Andrew Bloom <andrew@andrewkbloom.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/abloom/easy-hrtime/issues"
+    "url": "https://github.com/abloom/hrduration/issues"
   },
-  "homepage": "https://github.com/abloom/easy-hrtime"
+  "homepage": "https://github.com/abloom/hrduration"
 }
