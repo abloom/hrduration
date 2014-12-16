@@ -6,6 +6,13 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "publishConfig": {
+    "license": {
+      "exclude": [
+        "lib"
+      ]
+    }
+  },
   "repository": {
     "type": "git",
     "url": "git@github.com:abloom/hrduration.git"
