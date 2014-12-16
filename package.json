@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/abloom/hrduration/issues"
   },
-  "homepage": "https://github.com/abloom/hrduration"
+  "homepage": "https://github.com/abloom/hrduration",
+  "devDependencies": {
+    "npub": "^0.5.1"
+  }
 }
