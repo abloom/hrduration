@@ -8,7 +8,7 @@ var HRDuration = require('hrduration');
 
 ...
 
-var timer = new HRDuration();
+var timer = HRDuration();
 doSomething();
 console.log(timer.getSeconds());
 ````
